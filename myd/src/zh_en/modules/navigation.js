@@ -1,0 +1,42 @@
+export default{
+	zh:{
+		msls: [{name: '薪庐',id:'A-117'},{name:'笔墨堂',id:'A-124'}],
+		zhub: [{name: '佳多丽珊瑚',id:'A-132'},{name:'佳多丽珊瑚',id:'A-143'}],
+		fwpt: [{name: '艺年·艺术商店',id:'B-127'},{name:'艺年·艺术空间',id:'B-128'},{name:'艺年·艺术空间',id:'B-129'},{name:'艺年·艺术空间',id:'B-130'}],
+		gyls: [{name: '盛吴轩',id:'B-103'},{name:'盛吴轩',id:'B-110'},{name:'素见',id:'B-113'},{name:'归于真',id:'B-114'},{name:'归于真',id:'B-115'},{name:'归于真',id:'B-116'},{name:'臻源工艺店',id:'B-125'}],
+		wcls: [{name: '点雪堂',id:'A-109'},{name:'点雪堂',id:'A-122'},{name:'無境匠心',id:'A-127'},{name:'三月白',id:'A-131'}],
+		gwlsxx: [{name: '信兴阁',id:'B-109'},{name:'随园古美术',id:'B-112'},{name:'夕美术',id:'B-121'},{name:'青云舍',id:'B-122'},{name:'半山阁',id:'B-123'}],
+		gwls: [{name: '浩源宝泉',id:'A-102'},{name:'拾宝斋',id:'A-103'},{name:'南华山房',id:'A-106'},{name:'玉源轩',id:'A-107'},
+		{name:'京观艺术',id:'A-108'},{name:'奉先堂',id:'A-115'},{name:'三学空间',id:'A-116'},{name:'二肯堂',id:'A-118'},{name:'欣意阁',id:'A-119'},
+		{name:'宗龙阁',id:'A-120'},{name:'润朴斋',id:'A-121'},{name:'玉汉唐',id:'A-123'},{name:'信昌信',id:'A-125'},{name:'熙和堂',id:'A-126'},{name:'同泰轩',id:'A-133'},{name:'禅瓷古风',id:'A-134'}],
+		gwlsx: [{name: '云隐山房',id:'A-135'},{name:'聚云雅集',id:'A-136'},{name:'衎斋古美术',id:'A-137'},{name:'衎斋古美术',id:'A-147'},
+		{name:'岚岳轩',id:'A-139'},{name:'友和珍藏阁',id:'A-140'},{name:'铭座宝藏',id:'A-141'},{name:'閒廬',id:'A-144'},{name:'華裔堂',id:'A-145'},
+		{name:'志修斋',id:'A-146'},{name:'依园',id:'A-148'},{name:'雅玩轩',id:'A-149'},{name:'润玉轩',id:'A-150'},{name:'望云斋',id:'B-106'},{name:'福兴堂',id:'B-107'},{name:'凭栏处',id:'B-108'}],
+		tit_gyl:'工艺类',
+		tit_gwl:'古玩类',
+		tit_wcl:'文创类',
+		tit_msl:'美术类',
+		tit_fwpz:'服务配套',
+		tit_zb:'珠 宝'
+	},
+	en:{
+		msls: [{name: '薪庐',id:'A-117'},{name:'笔墨堂',id:'A-124'}],
+		zhub: [{name: '佳多丽珊瑚',id:'A-132'},{name:'佳多丽珊瑚',id:'A-143'}],
+		fwpt: [{name: '艺年·艺术商店',id:'B-127'},{name:'艺年·艺术空间',id:'B-128'},{name:'艺年·艺术空间',id:'B-129'},{name:'艺年·艺术空间',id:'B-130'}],
+		gyls: [{name: '盛吴轩',id:'B-103'},{name:'盛吴轩',id:'B-110'},{name:'素见',id:'B-113'},{name:'归于真',id:'B-114'},{name:'归于真',id:'B-115'},{name:'归于真',id:'B-116'},{name:'臻源工艺店',id:'B-125'}],
+		wcls: [{name: '点雪堂',id:'A-109'},{name:'点雪堂',id:'A-122'},{name:'無境匠心',id:'A-127'},{name:'三月白',id:'A-131'}],
+		gwlsxx: [{name: '信兴阁',id:'B-109'},{name:'随园古美术',id:'B-112'},{name:'夕美术',id:'B-121'},{name:'青云舍',id:'B-122'},{name:'半山阁',id:'B-123'}],
+		gwls: [{name: '浩源宝泉',id:'A-102'},{name:'拾宝斋',id:'A-103'},{name:'南华山房',id:'A-106'},{name:'玉源轩',id:'A-107'},
+		{name:'京观艺术',id:'A-108'},{name:'奉先堂',id:'A-115'},{name:'三学空间',id:'A-116'},{name:'二肯堂',id:'A-118'},{name:'欣意阁',id:'A-119'},
+		{name:'宗龙阁',id:'A-120'},{name:'润朴斋',id:'A-121'},{name:'玉汉唐',id:'A-123'},{name:'信昌信',id:'A-125'},{name:'熙和堂',id:'A-126'},{name:'同泰轩',id:'A-133'},{name:'禅瓷古风',id:'A-134'}],
+		gwlsx: [{name: '云隐山房',id:'A-135'},{name:'聚云雅集',id:'A-136'},{name:'衎斋古美术',id:'A-137'},{name:'衎斋古美术',id:'A-147'},
+		{name:'岚岳轩',id:'A-139'},{name:'友和珍藏阁',id:'A-140'},{name:'铭座宝藏',id:'A-141'},{name:'閒廬',id:'A-144'},{name:'華裔堂',id:'A-145'},
+		{name:'志修斋',id:'A-146'},{name:'依园',id:'A-148'},{name:'雅玩轩',id:'A-149'},{name:'润玉轩',id:'A-150'},{name:'望云斋',id:'B-106'},{name:'福兴堂',id:'B-107'},{name:'凭栏处',id:'B-108'}],
+		tit_gyl:'Craft Class',
+		tit_gwl:'Antique Class',
+		tit_wcl:'Cultural And Creative',
+		tit_msl:'Arts Class',
+		tit_fwpz:'Supporting Services',
+		tit_zb:'Jewelry Class'
+	}
+}

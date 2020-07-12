@@ -1,0 +1,62 @@
+export default{
+	zh:[
+		{
+			path:'/',
+			pagenumss:'1',
+			actSrc:'../../static/btn_searchs.png',
+			src:'../../static/btn_search.png',
+			pageNume:'搜  索'
+		},
+		{
+			path:'/activity',
+			pagenumss:'2',
+			actSrc:'../../static/btn_activitys.png',
+			src:'../../static/btn_activity.png',
+			pageNume:'活  动'
+		},
+		{
+			path:'/navigation',
+			pagenumss:'3',
+			actSrc:'../../static/btn_navigations.png',
+			src:'../../static/btn_navigation.png',
+			pageNume:'导  航'
+		},
+		{
+			path:'/member',
+			pagenumss:'4',
+			actSrc:'../../static/btn_vips.png',
+			src:'../../static/btn_vip.png',
+			pageNume:'会 员'
+		}
+	],
+	en:[
+		{
+			path:'/',
+			pagenumss:'1',
+			actSrc:'../../static/btn_searchs.png',
+			src:'../../static/btn_search.png',
+			pageNume:'Search'
+		},
+		{
+			path:'/activity',
+			pagenumss:'2',
+			actSrc:'../../static/btn_activitys.png',
+			src:'../../static/btn_activity.png',
+			pageNume:'Activity'
+		},
+		{
+			path:'/navigation',
+			pagenumss:'3',
+			actSrc:'../../static/btn_navigations.png',
+			src:'../../static/btn_navigation.png',
+			pageNume:'Navigation'
+		},
+		{
+			path:'/member',
+			pagenumss:'4',
+			actSrc:'../../static/btn_vips.png',
+			src:'../../static/btn_vip.png',
+			pageNume:'Member'
+		}
+	]
+}
